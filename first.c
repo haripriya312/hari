@@ -8,15 +8,15 @@ printf("INPUT\n");
 scanf("%d",&a);
 if(a>=0)
 {
-printf("positive");
+printf("Positive");
 }
 else if(a<=0)
 {
-printf("negative");
+printf("Negative");
 }
 else
 {
-printf("zero");
+printf("Zero");
 }
 getch();
 }
