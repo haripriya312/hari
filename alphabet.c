@@ -8,7 +8,7 @@ printf("INPUT\n");
 scanf("%d",&c);
 if(c>='a'&&c<='z')
 {
-printf("alphabet");
+printf("Alphabet");
 }
 else
 {
