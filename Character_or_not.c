@@ -27,7 +27,7 @@ if((ch>='A'&&ch<='Z')||(ch>='a'&&ch<='z'))
 }
 else
 {
-printf("Invalid Input");
+printf("Invalid ");
 }
 return 0;
 }
