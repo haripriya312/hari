@@ -14,11 +14,11 @@ count++;
 }
 if(count==2)
 {
-printf("n is a Prime number");
+printf("yes");
 }
 else
 {
-printf("n is not a Prime number");
+printf("no");
 }
 return 0;    
 }
