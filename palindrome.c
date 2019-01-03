@@ -14,11 +14,11 @@ temp=temp/10;
 }
 if(rev==num)
 {
-printf("palindrome");
+printf("yes");
 }
 else
 {
-printf("not palindrome");
+printf("no");
 }
 return 0;
 }
