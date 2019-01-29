@@ -7,7 +7,7 @@ printf(" enter the two intervals:");
 scanf("%d ,%d",&a,&b);
 for(i=a;i<b;i++)
 {
-of(i÷2==0)
+if(i÷2==0)
 {
 printf("%d",&n);
 }
